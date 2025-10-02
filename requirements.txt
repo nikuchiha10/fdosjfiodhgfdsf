@@ -1,0 +1,9 @@
+cat > requirements.txt << 'EOF'
+selenium==4.15.0
+requests==2.31.0
+python-telegram-bot==20.7
+beautifulsoup4==4.12.2
+lxml==4.9.3
+urllib3==1.26.18
+webdriver-manager==4.0.1
+EOF
